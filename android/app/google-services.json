@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250679642939",
+    "firebase_url": "https://shyakaproject-f7821.firebaseio.com",
+    "project_id": "shyakaproject-f7821",
+    "storage_bucket": "shyakaproject-f7821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250679642939:android:f646c9004d2e8641",
+        "android_client_info": {
+          "package_name": "com.macteamproiect.shyakapro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250679642939-avig6307c7m96p01d732uaqp4sen1u98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.macteamproiect.shyakapro",
+            "certificate_hash": "6a5f87c46558bc4dca01548adcf41be1e7db0cfb"
+          }
+        },
+        {
+          "client_id": "250679642939-einhnvsnfu1d58neoob8beeb0ffis0gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDOnFlIKidf249lwIb9c0gAVVIg0xgtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250679642939-einhnvsnfu1d58neoob8beeb0ffis0gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
